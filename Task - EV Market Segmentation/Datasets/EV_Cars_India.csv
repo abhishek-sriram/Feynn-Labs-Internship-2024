@@ -1,0 +1,31 @@
+Car_name,transmission,Car_price(rs),Battery_Capacity(KwH),Drive_range(KMs),Power(Bhp),Charge_time(Hours)
+MG Comet EV,Automatic,798000,17.3,230.0,41.42,7.0
+Tata Tiago EV,Automatic,1199000,19.2,250.0,60.34,1.0
+Tata Tigor EV,Automatic,1375000,26.0,315.0,73.75,7.5
+MG ZS EV,Automatic,2740000,50.3,461.0,174.33,9.0
+BYD Atto 3,Automatic,3449000,60.48,521.0,201.15,10.0
+Hyundai Kona Electric,Automatic,2403000,39.2,452.0,134.1,6.16
+Mahindra XUV400 EV,Automatic,1898999,34.5,375.0,148.0,8.0
+Tata Nexon EV Max,Automatic,1954000,40.5,453.0,141.04,15.0
+Mercedes-Benz EQS,Automatic,24000000,17.3,230.0,41.42,7.0
+Audi e-tron GT,Automatic,17000000,19.2,250.0,60.34,1.0
+BMW i4,Automatic,7750000,26.0,315.0,73.75,7.5
+BYD E6,Automatic,2915000,50.3,461.0,174.33,9.0
+Porsche Taycan,Automatic,23000000,60.48,521.0,201.15,10.0
+Audi RS e-tron GT,Automatic,19000000,39.2,452.0,134.1,6.16
+Mahindra E Verito,Automatic,946000,34.5,375.0,95.0,8.0
+Strom Motors R3,Automatic,450000,40.5,453.0,141.04,15.0
+Tata Nexon EV Prime,Automatic,1719000,71.7,415.0,93.87,1.5
+Hyundai IONIQ 5,Automatic,4495000,29.2,320.0,56.22,10.5
+Kia EV6,Automatic,6595000,77.4,708.0,225.86,1.0
+BMW iX,Automatic,12000000,76.6,425.0,321.84,7.25
+BMW i7,Automatic,19000000,101.7,625.0,536.4,8.0
+Mini Cooper SE,Automatic,5250000,32.6,270.0,181.03,2.5
+Audi e-tron,Automatic,12000000,77.4,708.0,225.86,1.0
+Citroen eC3,Automatic,1276000,29.2,425.0,321.84,7.25
+Volvo XC40 Recharge,Automatic,5690000,78.0,625.0,536.4,8.0
+Jaguar I-Pace,Automatic,12000000,32.6,270.0,181.03,2.5
+Pravaig DEFY,Automatic,3950000,107.8,857.0,516.29,8.0
+PMV EaS E,Automatic,47900000,93.4,500.0,190.0,8.0
+Mercedes-Benz EQB,Automatic,7450000,66.5,379.0,225.0,8.0
+Mercedes-Benz EQC,Automatic,9950000,83.9,590.0,335.25,8.0
