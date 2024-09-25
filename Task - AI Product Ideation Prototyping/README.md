@@ -1,4 +1,4 @@
-### 🚀 [AI Product Ideation: LoftlyValue](https://github.com/abhishek-sriram/Feynn-Labs-Internship-2024/tree/main/Task%20-%20AI%20Product%20Ideation%20Prototyping)
+###  [AI Product Ideation: LoftlyValue](https://github.com/abhishek-sriram/Feynn-Labs-Internship-2024/tree/main/Task%20-%20AI%20Product%20Ideation%20Prototyping)
 
 *LoftlyValue* is an AI-powered real estate property valuation app concept. The application leverages machine learning algorithms to estimate property prices, providing accurate valuations for buyers, sellers, and investors. This solution can streamline property assessments and enhance decision-making in real estate markets, addressing global needs for efficient and data-driven pricing strategies.
 
