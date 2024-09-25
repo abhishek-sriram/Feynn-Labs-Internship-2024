@@ -1,5 +1,5 @@
-# Feynn Labs Internship Project 
-<img src="https://feynnlabs.com/wp-content/uploads/2021/04/cropped-logo_coloured.jpg" width="200" height="200">
+# Electric Vehicle Market Segmentation 
+<img src="https://github.com/abhishek-sriram/Feynn-Labs-Internship-2024/blob/main/Task%20-%20EV%20Market%20Segmentation/EV%20market.png" width="300" height="300">
 
 ## Introduction 
 As a part of the extensive market segmentation analysis, that my team and I carried out, we implemented market segmentaion strategies focusing only on the Electric Vehicle(EV) market in India using unsupervised machine learning algorithms in Python. 
