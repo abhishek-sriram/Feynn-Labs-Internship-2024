@@ -29,6 +29,7 @@ In this project, my team and I performed an in-depth segmentation analysis of th
 
 ---
 
+##  Conclusion
 Each project helped enhance my expertise in machine learning, data analysis, and AI-driven product development. I gained practical experience with Python, data processing, and the application of machine learning algorithms to solve real-world problems.
 
 
