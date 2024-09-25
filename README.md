@@ -7,8 +7,8 @@
 This repository showcases the projects I completed during my **Machine Learning Internship** at [Feynn Labs](https://feynnlabs.com/).
 
 - **Role**: Machine Learning Intern
-- **Duration**: October 2022 - November 2022
-- **Mode**: Virtual
+- **Duration**: August 2024 - October 2024
+- **Mode**: Remote
 
 ---
 
