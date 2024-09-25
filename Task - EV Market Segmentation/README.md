@@ -1,5 +1,5 @@
 # Electric Vehicle Market Segmentation 
-<img src="https://github.com/abhishek-sriram/Feynn-Labs-Internship-2024/blob/main/Task%20-%20EV%20Market%20Segmentation/EV%20market.png" width="300" height="300">
+<img src="https://github.com/abhishek-sriram/Feynn-Labs-Internship-2024/blob/main/Task%20-%20EV%20Market%20Segmentation/EV%20market.png" width="400" height="250">
 
 ## Introduction 
 As a part of the extensive market segmentation analysis, that my team and I carried out, we implemented market segmentaion strategies focusing only on the Electric Vehicle(EV) market in India using unsupervised machine learning algorithms in Python. 
@@ -25,31 +25,28 @@ To capture maximum information, each of the team members carried out their resea
 ## Datasets
 After laying down the business questions, we sought datasets that could closely answer all our questions. The following datasets were collected:
 
-[Electric Vehicle 2023 (1)](kaggle/input/electric-vehicle-2023/smev_data.xlsx)
+[EV Charging Stations](https://github.com/abhishek-sriram/Feynn-Labs-Internship-2024/blob/main/Task%20-%20EV%20Market%20Segmentation/Datasets/RS_Session_257_AU_2368_B_3.csv)
 
-[Electric Vehicle 2023 (2)](https://www.kaggle.com/datasets/atom1991/electric-vehicle-2023)
+[EV Cars India](https://github.com/abhishek-sriram/Feynn-Labs-Internship-2024/blob/main/Task%20-%20EV%20Market%20Segmentation/Datasets/EV_Cars_India.csv)
 
 
-[Electric Vehicle](https://www.kaggle.com/datasets/kkhandekar/electric-vehiclesindia/code)
+[Car Data](https://github.com/abhishek-sriram/Feynn-Labs-Internship-2024/blob/main/Task%20-%20EV%20Market%20Segmentation/Datasets/car_data.csv)
 
-[Indian Consumer Cars Purchasing Behavior](https://www.kaggle.com/datasets/karivedha/indian-consumers-cars-purchasing-behaviour)
+[Geo Map Data](https://github.com/abhishek-sriram/Feynn-Labs-Internship-2024/blob/main/Task%20-%20EV%20Market%20Segmentation/Datasets/geoMap.csv)
 
-[Vehicle Dataset](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho)
-
-[beeindia](https://beeindia.gov.in/en)
-
-[Kaggle Data](https://www.kaggle.com/)
-
-[Data](Data.gov.in)
+These datasets provided valuable insights into both consumer behavior and the performance of various EV products in the Indian market.
 
 ## Algorithms Used
+We implemented the following algorithms for our segmentation analysis:
 
-* Heirarchical Clustering : Hierarchical clustering (also called hierarchical cluster analysis or HCA) is a method of cluster analysis that seeks to build a hierarchy of clusters. The results of hierarchical clustering[1] are usually presented in a dendrogram.
-* Kmean Clustering : It aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean (cluster centers or cluster centroid), serving as a prototype of the cluster.
+- **Principal Component Analysis (PCA)**: PCA was used to reduce the dimensionality of our dataset, enabling us to capture the most important features while minimizing noise. This step allowed us to focus on the most relevant factors in the EV market.
+  
+- **K-Means Clustering**: After applying PCA, we used K-Means to partition the dataset into clusters, where each data point belongs to the cluster with the nearest mean. This method helped us identify distinct consumer and product clusters based on their shared characteristics.
 
-These algorithms have helped us explore clusters of products and consumer categories. 
+These techniques enabled us to explore clusters within the EV market, providing actionable insights into product categories and customer segments.
+
+## Conclusion
+Our analysis revealed distinct market segments that could help the EV startup make informed decisions about which customer groups and vehicle types to target. By leveraging PCA for dimensionality reduction and K-Means for clustering, we were able to propose a strategy that aligns with the unique dynamics of the Indian EV market.
 
 ## References
-[1. Market Segmentation Analysis](https://www.researchgate.net/publication/326524789_Market_Segmentation_Analysis_Understanding_It_Doing_It_and_Making_It_Useful)
-
-
+1. [Market Segmentation Analysis](https://www.researchgate.net/publication/326524789_Market_Segmentation_Analysis_Understanding_It_Doing_It_and_Making_It_Useful)
