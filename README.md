@@ -12,7 +12,7 @@ This repository showcases the projects I completed during my **Machine Learning 
 
 ---
 
-##  Projects
+##  Tasks/Projects
 
 ###  [AI Product/Service Ideation: LoftlyValue](https://github.com/abhishek-sriram/Feynn-Labs-Internship-2024/tree/main/Task%20-%20AI%20Product%20Ideation%20Prototyping)
 This solo project involved conceptualizing *"LoftlyValue"*, an AI-powered real estate property valuation app. The app uses machine learning algorithms to estimate property prices, providing buyers, sellers, and investors with accurate real estate valuations. This solution can streamline property assessments globally, improving the decision-making process in real estate markets.
