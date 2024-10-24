@@ -23,7 +23,7 @@ In collaboration with a team, I conducted a comprehensive market segmentation st
 ---
 
 ### [EV Market Segmentation Analysis](https://github.com/abhishek-sriram/Feynn-Labs-Internship-2024/tree/main/Task%20-%20EV%20Market%20Segmentation)
-In this project, my team and I performed an in-depth segmentation analysis of the Indian Electric Vehicle (EV) market. Using datasets from Kaggle and other sources, we applied unsupervised machine learning techniques, including PCA and K-Means clustering, to identify customer segments and product categories. This analysis provided valuable insights into market trends and potential business strategies for EV manufacturers.
+In this project, myself and my team have performed an in-depth segmentation analysis of the Indian Electric Vehicle (EV) market. Using datasets from Kaggle and other sources, we applied unsupervised machine learning techniques, including PCA and K-Means clustering, to identify customer segments and product categories. This analysis provided valuable insights into market trends and potential business strategies for EV manufacturers.
 
 ---
 
